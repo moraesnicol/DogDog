@@ -36,7 +36,7 @@ A sample example of retrofit2
 
 # :camera: Screenshots
 <div align="center">
-   <img src="https://github.com/moraesnicol/appbirthday/blob/master/happycard.png" height="550px" width="300px">
+   <img src="https://github.com/moraesnicol/DogDog/blob/master/dogdog.gif" height="550px" width="300px">
 
 </div>
 
